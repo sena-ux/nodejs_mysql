@@ -1,0 +1,13 @@
+Catatan : Database sudah disiapkan
+1. Instalasi Node JS
+
+mkdir nama_folder
+cd nama_folder
+npm install express
+npm install mysql
+npm install nodemon
+npm install hbs
+
+2. Buat File index.js
+3. Buat File .hbs
+4. Menjalankan Aplikasi : nodemon index.js
