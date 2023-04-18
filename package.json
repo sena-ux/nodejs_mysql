@@ -4,6 +4,16 @@
     "express-handlebars": "^7.0.4",
     "hbs": "^4.2.0",
     "mysql": "^2.18.1",
+    "nodejs": "^0.0.0",
     "nodemon": "^2.0.22"
-  }
+  },
+  "name": "nodejs_mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

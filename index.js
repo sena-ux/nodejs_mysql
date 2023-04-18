@@ -19,7 +19,7 @@ const db = mysql.createConnection({
 
 //Routing
 app.get('/',function(r,s){
-    sql = "Select * From tuk";
+    sql = "SELECT * FROM tuk";
     db.query(sql, function(e, qry){
         s.render('tuk',{
             judul:'DATA TUK',
